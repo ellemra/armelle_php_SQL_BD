@@ -1,0 +1,21 @@
+fieldset{
+	background-color: pink;
+	border-radius: 50px;
+	border: solid,10px,gray;
+	padding-bottom: 20px;
+	padding-top: 30px;
+	width: 350px;
+	color: red;
+	font-size: 20px;
+
+
+p{
+	font-size: 40px;
+	color: blue;
+}
+.content{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+
+}
